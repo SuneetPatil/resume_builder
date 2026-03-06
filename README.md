@@ -201,7 +201,13 @@ A clean, ATS-optimized resume template with:
 - Bullet-point highlights for each role
 - Optimized spacing and typography
 
-**Sample output**: `output/resume.pdf`
+### Sample Output
+
+Check out the generated resume:
+
+📄 **[View Sample Resume](output/resume.pdf)**
+
+The resume is automatically generated from `data/input-data.json` and committed to the repository.
 
 ## Troubleshooting
 

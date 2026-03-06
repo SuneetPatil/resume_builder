@@ -1,5 +1,4 @@
 # Build outputs
-output/resume.pdf
 output/logs/
 *.aux
 *.log
