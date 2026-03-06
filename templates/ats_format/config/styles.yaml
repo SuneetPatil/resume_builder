@@ -1,0 +1,23 @@
+# Resume Styling Configuration
+
+colors:
+  highlight: "61, 90, 128"  # RGB for section headings and accents
+  text: "0, 0, 0"           # Default text color
+
+fonts:
+  family: "sourcesanspro"   # Font family (sourcesanspro, lato, opensans, roboto)
+  weight: "semibold"        # Font weight
+
+spacing:
+  top_margin: "0.3in"
+  bottom_margin: "1in"
+  left_margin: "0.5in"
+  right_margin: "0.5in"
+  section_spacing: "0.5em"
+  item_spacing: "0.3em"
+
+sizes:
+  name_font: "large"        # \large
+  role_font: "normalsize"   # \normalsize
+  section_font: "large"     # \large
+  body_font: "10pt"
