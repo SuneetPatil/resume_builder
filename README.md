@@ -1,5 +1,7 @@
 # Resume Builder
 
+⭐ If you find this helpful, please consider giving it a star to show your support!
+
 A professional, ATS-friendly resume generator that converts JSON data into a beautifully formatted PDF resume using LaTeX.
 
 ## Features
